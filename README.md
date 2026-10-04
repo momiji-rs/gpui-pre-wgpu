@@ -16,7 +16,7 @@ Use it with a pinned revision:
 
 ```toml
 [patch.crates-io]
-gpui-pre-wgpu = { git = "https://github.com/linyiru/gpui-pre-wgpu", rev = "…" }
+gpui-pre-wgpu = { git = "https://github.com/momiji-rs/gpui-pre-wgpu", rev = "…" }
 ```
 
 Retire this fork once a gpui-pre-wgpu release includes the fix.
